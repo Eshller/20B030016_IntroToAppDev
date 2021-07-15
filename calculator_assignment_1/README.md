@@ -1,16 +1,25 @@
-# calculator
+# Calculator
 
 Assignment for TCC-Intro-to-AppDev
 
-## Getting Started
+## First App
+This is a calculator app developed by me. Its a basic calculator with all the basic functionalities like addition, subtraction, divide, square root etc.
 
-This project is a starting point for a Flutter application.
+### Dividing
+<p align="center">
+<img src="images/divide.jpeg" width="140">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+### Square Root
+<p align="center">
+<img src="images/sqrt.jpeg" width="140">
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Addition and Subtraction in an expression
+<p align="center">
+<img src="images/expression.jpeg" width="140">
+</p>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+# Thank you for guiding me thorough this assignment!
+### I learned a lot during this assignment. Hoping to work more on such assignments!
